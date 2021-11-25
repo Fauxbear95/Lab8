@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3q3b0VxDrzixnPE6QwzAq+UZaZDIU2E9YENqI8izafH2iq6hdESbGatfxvg952ZgXb87lsGpjhLvzOlJpjEm+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\Lab8\\Lab8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
